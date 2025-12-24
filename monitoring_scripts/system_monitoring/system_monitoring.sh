@@ -9,7 +9,7 @@ CPU_THRESHOLD=80
 RAM_THRESHOLD=80
 DISK_THRESHOLD=80
 
-EMAIL_ID="yourmail@gmail.com"
+EMAIL_ID="shubhamyesare98@gmail.com"
 APP_PASSWORD="your_app_password"
 # ------------------------
 
