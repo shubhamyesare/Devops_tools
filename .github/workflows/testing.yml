@@ -1,0 +1,15 @@
+on:
+  push:
+    branches:
+      - ci-branch
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run Hello World Script
+        run: |
+          echo "Hello, World! from DIM team"
